@@ -1,6 +1,21 @@
 # MovieTicketBooking-Sprint1
 
-This is an online movie ticket system having an admin role and a customer role where admin has access to add city, the theatres in the city, the movies each theatre will showcase and the show timings for each movie.
-The customer can be an unregistered user or a registered user. Unregistered user can register itself or can view movie shows without registering while the registered user can view movie shows and book tickets for the particular show by paying online.
-Registered users will have the option to cancel its booking in which case he will get a refund on some specific terms.
-Users can select the language of movie and view the seat map and choose seats for themselves.
+1.ADMIN
+	1.1 Admin Login
+	1.2 Manage City
+	1.3 Manage Theatres In The City
+	1.4 Manage Movies Each Theatre Will Showcase
+	1.5 Manage Show Timings For Each Movie
+
+2.UNREGISTERED USER
+	2.1 User Registration
+	2.2 Unregistered User  Can View Movie Shows Without Registering
+
+3. REGISTERED USER
+	3.1 View Movie Shows
+  3.2 Book Tickets
+  3.3 Cancel Its Booking
+  3.4 Select The Language Of Movie
+  3.5 View The Seat Map
+  3.6 Choose Seats For Themselves.
+
