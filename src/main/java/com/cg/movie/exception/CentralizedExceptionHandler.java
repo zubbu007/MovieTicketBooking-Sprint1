@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 @RestControllerAdvice
 public class CentralizedExceptionHandler {
 	@ResponseStatus(HttpStatus.BAD_REQUEST)
-	@ExceptionHandler(MovieAlreadyExistsException.class)
-	public String handleStudentExists(MovieAlreadyExistsException e) {
+	@ExceptionHandler(TheatreAlreadyExistsException.class)
+	public String handleStudentExists(TheatreAlreadyExistsException e) {
 		return e.getMessage();
 	}
 
