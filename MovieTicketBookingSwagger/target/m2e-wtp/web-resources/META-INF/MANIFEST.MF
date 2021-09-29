@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: VishwaAj
+Build-Jdk: 16.0.1
+Implementation-Title: studentrest
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.cg.movie
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/MovieTicketBookingSwagger
+Created-By: Maven Integration for Eclipse
+
